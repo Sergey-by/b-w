@@ -1,0 +1,23 @@
+{
+  "name": "BLACK&WHITE MEN",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Lyzo",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "gulp-util": "^3.0.6",
+    "jshint-stylish": "^2.0.1",
+    "gulp-connect": "^2.2.0"
+  }
+}
